@@ -1,0 +1,15 @@
+{
+  "name": "nodemh",
+  "version": "1.0.0",
+  "description": "\"this is the in class magic hours node stuff thing.\",",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1",
+    "lodash": "^4.17.4"
+  }
+}
